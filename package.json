@@ -1,0 +1,24 @@
+{
+  "name": "@nhuando/nodejs-uci-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donhuanvn/nodejs-uci-to-json.git"
+  },
+  "keywords": [
+    "nodejs",
+    "uci",
+    "json"
+  ],
+  "author": "Nhuan Do",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donhuanvn/nodejs-uci-to-json/issues"
+  },
+  "homepage": "https://github.com/donhuanvn/nodejs-uci-to-json#readme"
+}
